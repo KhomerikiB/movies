@@ -26,7 +26,7 @@ const movieDetails = async () => {
                         <p style="display:flex;"><span style="margin-right: 0.3rem">Description: </span>${
                           data.overview
                         }</p>
-                        <a href="/" class="goback-btn">Go Back</a>
+                        <a href="/moviesapp" class="goback-btn">Go Back</a>
                     </div>
                 </div>
                 `;
